@@ -30,7 +30,7 @@
 - 언어: JDK 11
 - 백엔드: Springboot 2.7.8
 - 프론트엔드: HTML5, CSS3, Javascript, JSP, Bootstrap
-- 데이터베이스: 테스트 H2, 프로덕션 MySQL, MyBatis, Redis 세션
+- 데이터베이스: 테스트 H2, 프로덕션 MySQL, MyBatis
 - 테스트: Junit
 - IDE: Visual Studio Code
 - VCS: Github
@@ -140,14 +140,6 @@
   <ul>
   <br>
     <li>SSE 통신으로 서류 발표 알림 기능</li>
-  <br>
-  </ul>
-</details>
-<details>
-  <summary>Redis</summary>
-  <ul>
-  <br>
-    <li>Redis 세션 DB 구현</li>
   <br>
   </ul>
 </details>
